@@ -1,9 +1,9 @@
 # tcsemantik for Total Commander
 
-![rag-actions.png](actions)
-![rag-search.png](search)
-![rag-settings](settings)
-![rag-summary](summary)
+![actions](rag-actions.png)
+![search](rag-search.png)
+![settings](rag-settings.png)
+![summary](rag-summary.png)
 
 `tcsemantik` is a Total Commander file system plugin for searching and working
 with document collections. It combines local full-text search, semantic search
