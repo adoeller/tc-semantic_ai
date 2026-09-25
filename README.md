@@ -1,6 +1,6 @@
 # tcsemantik for Total Commander
 
-![actions](rag-actions.png)
+![actions](rag-action.png)
 ![search](rag-search.png)
 ![settings](rag-settings.png)
 ![summary](rag-summary.png)
